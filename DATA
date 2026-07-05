@@ -1,0 +1,23 @@
+Enter category(Food, Travel, Shopping, etc) : Food
+Enter short description : Lunch
+Enter amount ($) : 150
+
+Expense added successfully!
+
+=====MENU=====
+Add Expense
+View
+Exit
+==============
+Enter your choice (1-4): 3
+
+Total Spending = $150
+
+Concept                          Purpose
+  
+while loop	                 To repeat the menu until user exists
+if-else-else                 To handle menu options
+list	                       To store multiple expenses
+dictionary	                 To Store detail of each expense
+for loop	                   To display and calculate totals
+input()/print()	             For user interaction
